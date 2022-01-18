@@ -4,7 +4,7 @@ Exercices from the Samsung Innovation Campus
 
 ## Chapter 3 exercises
 
-* ![[Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/github/dborges14/SamsungInovationCampus_AI/blob/main/SIC_AI_Chapter.%2003_Coding%20Exercises/ex_0201.ipynb) [ex_0201.ipynb](https://github.com/dborges14/SamsungInovationCampus_AI/blob/main/SIC_AI_Chapter.%2003_Coding%20Exercises/ex_0201.ipynb)
+* [ex_0201.ipynb](https://github.com/dborges14/SamsungInovationCampus_AI/blob/main/SIC_AI_Chapter.%2003_Coding%20Exercises/ex_0201.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dborges14/SamsungInovationCampus_AI/blob/main/SIC_AI_Chapter.%2003_Coding%20Exercises/ex_0201.ipynb)
 
 * [ex_0101.ipynb](https://github.com/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_02_Coding_Exercises/ex_0101.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stefannae/SIC-Artificial-Intelligence/blob/main/SIC_AI_Coding_Exercises/SIC_AI_Chapter_02_Coding_Exercises/ex_0101.ipynb)
 
