@@ -8,7 +8,7 @@ Exercices from the Samsung Innovation Campus
 
 * [Exercise 2](https://github.com/dborges14/SamsungInovationCampus_AI/blob/main/SIC_AI_Chapter.%2003_Coding%20Exercises/ex_0202.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dborges14/SamsungInovationCampus_AI/blob/main/SIC_AI_Chapter.%2003_Coding%20Exercises/ex_0202.ipynb)
 
-## Data
+### Data
 
 [data_mine.csv](https://github.com/dborges14/SamsungInovationCampus_AI/files/7890111/data_mine.csv)
 
