@@ -1,4 +1,4 @@
-# SamsungInovationCampus_AI
+# Samsung Inovation Campus - AI
 
 Exercices from the Samsung Innovation Campus
 
