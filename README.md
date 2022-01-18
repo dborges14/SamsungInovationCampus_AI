@@ -2,6 +2,12 @@
 
 Exercices from the Samsung Innovation Campus
 
+# Chapter 3 exercises
+
+ex_0202.ipynb
+
+# Data
+
 [data_mine.csv](https://github.com/dborges14/SamsungInovationCampus_AI/files/7890111/data_mine.csv)
 
 [data_studentlist.csv](https://github.com/dborges14/SamsungInovationCampus_AI/files/7890112/data_studentlist.csv)
