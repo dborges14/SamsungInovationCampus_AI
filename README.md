@@ -2,9 +2,7 @@
 
 Classes and exercices for the Samsung Innovation Campus @ FCT UNL
 
-## Chapter 3 - Unit 1
-## NumPy
+## Chapter 3 - Numpy
+## Unit 1.1
 
-* [Exercise 1](https://github.com/dborges14/SamsungInovationCampus_AI/blob/main/SIC_AI_Chapter.%2003_Coding%20Exercises/ex_0201.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dborges14/SamsungInovationCampus_AI/blob/main/SIC_AI_Chapter.%2003_Coding%20Exercises/ex_0201.ipynb)
-
-* [Exercise 2](https://github.com/dborges14/SamsungInovationCampus_AI/blob/main/SIC_AI_Chapter.%2003_Coding%20Exercises/ex_0202.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dborges14/SamsungInovationCampus_AI/blob/main/SIC_AI_Chapter.%2003_Coding%20Exercises/ex_0202.ipynb)
+* [Slides examples](https://github.com/dborges14/SamsungInovationCampus_AI/blob/main/Chapter3_NumPy_1_1.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dborges14/SamsungInovationCampus_AI/blob/main/SIC_AI_Chapter.%2003_Coding%20Exercises/Chapter3_NumPy_1_1.ipynb)
