@@ -1,6 +1,6 @@
 # Samsung Inovation Campus - AI
 
-Exercices from the Samsung Innovation Campus
+Classes and exercices for the Samsung Innovation Campus @ FCT UNL
 
 ## Chapter 3 - Unit 1
 ## NumPy
