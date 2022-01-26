@@ -10,3 +10,7 @@ Classes and exercices for the Samsung Innovation Campus @ FCT UNL
 * [1.2 - Numpy array operations](https://github.com/dborges14/SamsungInovationCampus_AI/blob/main/Chapter3_NumPy_II.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dborges14/SamsungInovationCampus_AI/blob/main/Chapter3_NumPy_II.ipynb)
 
 * [1.3 - Linear algebra](https://github.com/dborges14/SamsungInovationCampus_AI/blob/main/Chapter3_NumPy_III.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dborges14/SamsungInovationCampus_AI/blob/main/Chapter3_NumPy_III.ipynb)
+
+### Pandas
+
+* [2.1 - Pandas Series and DataFrame](https://github.com/dborges14/SamsungInovationCampus_AI/blob/main/Chapter3_Pandas_I.ipynb)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dborges14/SamsungInovationCampus_AI/blob/main/Chapter3_Pandas_I.ipynb)
